@@ -1,18 +1,9 @@
-# Web前端程序员简历模板
+# Web前端程序员简历
 
-本简历模板由国内首家互联网人才拍卖网站「 [JobDeer.com](http://www.jobdeer.com) 」提供。
 
-（括号里的是我们的顾问编写的说明，建议在简历书写完成后统一删除）
 
-## 先讲讲怎样才是一份好的技术简历
+## 个人价绍
 
-首先，一份好的简历不光说明事实，更通过FAB模式来增强其说服力。
-
- - Feature：是什么
- - Advantage：比别人好在哪些地方
- - Benefit：如果雇佣你，招聘方会得到什么好处 
-
-其次，写简历和写议论文不同，过分的论证会显得自夸，反而容易引起反感，所以要点到为止。这里的技巧是，提供论据，把论点留给阅读简历的人自己去得出。放论据要具体，最基本的是要数字化，好的论据要让人印象深刻。
 
 举个例子，下边内容是虚构的：
 
@@ -21,8 +12,6 @@
 有同学问，如果我在项目里边没有那么显赫的成绩可以说怎么办？讲不出成绩时，就讲你的成长。因为学习能力也是每家公司都看中的东西。你可以写你在这个项目里边遇到了一个什么样的问题，别人怎么解决的，你怎么解决的，你的方案好在什么地方，最终这个方案的效果如何。
 
 具体、量化、有说服力，是技术简历特别需要注重的地方。
-
-（以上内容在写完简历后，对每一段进行评估，完成后再删除）
 
 ---
 
@@ -78,11 +67,6 @@
 ### PQR项目 
 我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-
-### 其他项目
-
-（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
-
 ---
 
 # 开源项目和作品
@@ -107,97 +91,14 @@
  - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
 
 # 技能清单
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
 以下均为我熟练使用的技能
 
 - Web开发：PHP/Hack/Node
 - Web框架：ThinkPHP/Yaf/Yii/Lavaral/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
+- 前端框架：Bootstrap/layui/VueJS/HTML5
 - 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
+- 数据库相关：MySQL
+- 版本管理、文档和自动化部署工具：Svn/Git
 - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
 
-## 参考技能关键字
-
-本技能关键字列表是从最近招聘Web前端的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。
-
-- web(889)
-- javascript(596)
-- css(555)
-- html(430)
-- jquery(323)
-- html5(312)
-- js(311)
-- ajax(196)
-- css3(176)
-- w3c(168)
-- div(156)
-- php(134)
-- xhtml(106)
-- java(92)
-- ui(78)
-- photoshop(75)
-- dom(63)
-- xml(56)
-- json(54)
-- yui(51)
-- flash(45)
-- bootstrap(43)
-- python(43)
-- http(38)
-- dreamweaver(38)
-- ext(33)
-- linux(33)
-- seo(32)
-- prototype(29)
-- chrome(28)
-- pc(28)
-- nodejs(28)
-- firefox(26)
-- ps(25)
-- angularjs(25)
-- fireworks(24)
-- extjs(23)
-- safari(22)
-- www(22)
-- mobile(22)
-- jsp(22)
-- mvc(22)
-- backbone(21)
-- node(21)
-- ruby(20)
-- github(19)
-- ios(18)
-- ie6(18)
-- android(18)
-- asp(18)
-- sass(17)
-- wap(16)
-- mootools(16)
-- ie(16)
-- mysql(15)
-- flex(14)
-- firebug(13)
-- bom(13)
-- webapp(12)
-- less(12)
-- web2(11)
-- angular(10)
-- git(10)
-- dw(10)
-- as(10)
-- mac(10)
-- psd(8)
-- o2o(7)
-- dojo(7)
-- actionscript3(6)
-- grunt(5)
-- ue(5)
-- zepto(5)
-- actionscript(5)
-- ie8(5)
-- coffeescript(5)
-- django(4)
